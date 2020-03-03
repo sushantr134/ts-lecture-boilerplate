@@ -1,5 +1,10 @@
-function test(a: number, b: number): number {
-  return a + b;
-}
+import Car from "./Car";
 
-console.log(test(2, 3));
+let car: Car = new Car(1234);
+
+car.setModel("M5");
+car.setName("BMW");
+
+console.log(car.getModel());
+console.log(car.getName());
+console.log(car.getRegno());
