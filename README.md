@@ -1,5 +1,6 @@
-# ts-lecture-boilerplate
-Basic Typescript boilerplate with webpack
+# ts-react-boilerplate
+
+Basic Typescript React boilerplate with webpack
 
 ### Steps to build and run the application
 
